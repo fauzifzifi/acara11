@@ -1,0 +1,15 @@
+# Laragon / local environment
+.env
+
+# VS Code
+.vscode/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
