@@ -67,7 +67,7 @@
             </p>
 
             <div class="menu">
-                <a href="#">Data Mahasiswa</a>
+                <a href="mahasiswa.php">Data Mahasiswa</a>
                 <a href="#">Data Dosen</a>
                 <a href="#">Data Mata Kuliah</a>
             </div>
