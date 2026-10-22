@@ -54,7 +54,7 @@
 <body>
 
     <header>
-        <h1>Sistem Informasi Akademik</h1>
+        <h1>Sistem Informasi Akademik - Versi Login</h1>
         <p>Project Praktikum Git dan GitHub</p>
     </header>
 
